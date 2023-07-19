@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+html{
+  background-color: darkslateblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+textarea {
+  margin: 50px;
+  height: 250px;
+  width: 500px;
+  text-align: center;
+  background-color: antiquewhite;
+}
+#preview {
+  margin: 50px;
+  width: 500px;
+
+  border: 2px solid black;
+  background-color: rgb(198, 252, 252);
+  text-align: center;
+}
